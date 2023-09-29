@@ -1,0 +1,93 @@
+{
+  "uuid": "3e2a17ad-840a-4fb0-b777-dc4fcd36cef8-tr-0-1002",
+  "historyId": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "fullName": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LEDUCHUY"
+    },
+    {
+      "name": "package",
+      "value": "NUnitFramework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithVaildUser"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "story",
+      "value": "Login With Vaild User"
+    },
+    {
+      "name": "suite",
+      "value": "Login Feature"
+    },
+    {
+      "name": "feature",
+      "value": "Login Feature"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithVaildUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "LoginWithVaildUser"
+  },
+  "stage": "finished",
+  "description": "Login With Vaild User\n",
+  "steps": [
+    {
+      "name": "LoginWithVaildUser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Login With Vaild User",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1695953217536,
+          "stop": 1695953219345
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bfde04ccc8004d5196ce96d0153c718b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1695953217533,
+      "stop": 1695953219349
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1695953217533,
+  "stop": 1695953219353
+}

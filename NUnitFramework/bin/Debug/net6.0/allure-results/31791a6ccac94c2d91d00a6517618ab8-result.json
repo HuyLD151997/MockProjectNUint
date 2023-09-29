@@ -1,0 +1,98 @@
+{
+  "uuid": "62bd6bb6-4058-450c-9f99-841a40fe3345-tr-0-1002",
+  "historyId": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "fullName": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LEDUCHUY"
+    },
+    {
+      "name": "package",
+      "value": "NUnitFramework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithVaildUser"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "story",
+      "value": "Login With Vaild User"
+    },
+    {
+      "name": "suite",
+      "value": "Login Feature"
+    },
+    {
+      "name": "feature",
+      "value": "Login Feature"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithVaildUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Expected object to be \"Dashboard\", but found Element (id = 14402E8487583F2363E13605E306E418_element_24).",
+    "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n"
+  },
+  "stage": "finished",
+  "description": "Login With Vaild User\n",
+  "steps": [
+    {
+      "name": "LoginWithVaildUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Expected object to be \"Dashboard\", but found Element (id = 14402E8487583F2363E13605E306E418_element_24).",
+        "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Login With Vaild User",
+          "status": "failed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false,
+            "message": "Expected object to be \"Dashboard\", but found Element (id = 14402E8487583F2363E13605E306E418_element_24).",
+            "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)"
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1695956447818,
+          "stop": 1695956450535
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "482914923e8b4f428dc3d2e2d51e7cf8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1695956447816,
+      "stop": 1695956450549
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1695956447816,
+  "stop": 1695956450552
+}

@@ -1,0 +1,64 @@
+{
+  "uuid": "bfb1f878-6d5c-4835-948e-bab3f21db7e6-tr-0-1002",
+  "historyId": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "fullName": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LEDUCHUY"
+    },
+    {
+      "name": "package",
+      "value": "NUnitFramework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithVaildUser"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithVaildUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "LoginWithVaildUser"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginWithVaildUser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "56b4090a900f4d39b6f05e24058bbd0e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1695875156103,
+      "stop": 1695875159795
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1695875156103,
+  "stop": 1695875159797
+}

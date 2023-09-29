@@ -1,0 +1,15 @@
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\bin\Debug\net6.0\NUnitFramework.Core.deps.json
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\bin\Debug\net6.0\NUnitFramework.Core.dll
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\bin\Debug\net6.0\NUnitFramework.Core.pdb
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\bin\Debug\net6.0\NUnitFramework.Models.dll
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\bin\Debug\net6.0\NUnitFramework.Models.pdb
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.csproj.AssemblyReference.cache
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.AssemblyInfoInputs.cache
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.AssemblyInfo.cs
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.csproj.CoreCompileInputs.cache
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.csproj.CopyComplete
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.dll
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\refint\NUnitFramework.Core.dll
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\NUnitFramework.Core.pdb
+D:\fsoft\Auto Testing\BaiTap\NUnitFramework\NUnitFramework.Core\obj\Debug\net6.0\ref\NUnitFramework.Core.dll

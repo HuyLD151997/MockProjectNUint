@@ -1,0 +1,12 @@
+{
+  "uuid": "92979ee0-9348-4ee3-87c7-a5f897d66f5d-tc-0-1001",
+  "name": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "children": [
+    "24f4475d-aafe-4c89-b6d7-c9970b90fd69-tr-0-1002"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1695966484078,
+  "stop": 1695966516161
+}

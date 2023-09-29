@@ -1,0 +1,98 @@
+{
+  "uuid": "cf7994bc-2c44-4f45-b1f2-427b35cf0e62-tr-0-1002",
+  "historyId": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "fullName": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LEDUCHUY"
+    },
+    {
+      "name": "package",
+      "value": "NUnitFramework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithVaildUser"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "story",
+      "value": "Login With Vaild User"
+    },
+    {
+      "name": "suite",
+      "value": "Login Feature"
+    },
+    {
+      "name": "feature",
+      "value": "Login Feature"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithVaildUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Expected mainPage.titleDashboard to be \"Dashboard\", but found Element (id = AF994F088916B42EB7EBC29A31303EE5_element_24).",
+    "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n"
+  },
+  "stage": "finished",
+  "description": "Login With Vaild User\n",
+  "steps": [
+    {
+      "name": "LoginWithVaildUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Expected mainPage.titleDashboard to be \"Dashboard\", but found Element (id = AF994F088916B42EB7EBC29A31303EE5_element_24).",
+        "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Login With Vaild User",
+          "status": "failed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false,
+            "message": "Expected mainPage.titleDashboard to be \"Dashboard\", but found Element (id = AF994F088916B42EB7EBC29A31303EE5_element_24).",
+            "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.ObjectAssertions`2.Be(TSubject expected, String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 29\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)"
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1695955302239,
+          "stop": 1695955304920
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f7c0a510293a423aa99e5516e95c1ae7-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1695955302237,
+      "stop": 1695955304941
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1695955302237,
+  "stop": 1695955304945
+}

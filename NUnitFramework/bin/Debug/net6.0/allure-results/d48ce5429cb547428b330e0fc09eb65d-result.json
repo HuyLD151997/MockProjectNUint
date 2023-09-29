@@ -1,0 +1,98 @@
+{
+  "uuid": "01f2ac82-6dc4-4f43-b472-9045eecee605-tr-0-1002",
+  "historyId": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "fullName": "NUnitFramework.Tests.LoginTest.LoginWithVaildUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LEDUCHUY"
+    },
+    {
+      "name": "package",
+      "value": "NUnitFramework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithVaildUser"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "story",
+      "value": "Login with vaild user"
+    },
+    {
+      "name": "suite",
+      "value": "Login Feature"
+    },
+    {
+      "name": "feature",
+      "value": "Login Feature"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithVaildUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Expected mainPage.IsTitleDisplayed to be true, but found False.",
+    "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.BooleanAssertions`1.BeTrue(String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 39\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 39\r\n"
+  },
+  "stage": "finished",
+  "description": "Login with vaild user\n",
+  "steps": [
+    {
+      "name": "LoginWithVaildUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Expected mainPage.IsTitleDisplayed to be true, but found False.",
+        "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.BooleanAssertions`1.BeTrue(String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 39\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_w_0(Object[] )\r\n   at NUnitFramework.Tests.LoginTest.LoginWithVaildUser() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 39\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Login with vaild user",
+          "status": "failed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false,
+            "message": "Expected mainPage.IsTitleDisplayed to be true, but found False.",
+            "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\r\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\r\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\r\n   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)\r\n   at FluentAssertions.Primitives.BooleanAssertions`1.BeTrue(String because, Object[] becauseArgs)\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_o() in D:\\fsoft\\Auto Testing\\BaiTap\\NUnitFramework\\NUnitFramework\\Tests\\LoginTest.cs:line 39\r\n   at NUnitFramework.Tests.LoginTest.__a$_around_LoginWithVaildUser_100663309_u(Object[] )\r\n   at NUnit.Allure.Core.Steps.AllureStepAspect.WrapStep(String name, MethodBase methodBase, Object[] arguments, Func`2 method)"
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1695965980792,
+          "stop": 1695965982718
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ec82620e5689407caee3f9fdd0d2fafc-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1695965980790,
+      "stop": 1695965982728
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1695965980790,
+  "stop": 1695965982732
+}
